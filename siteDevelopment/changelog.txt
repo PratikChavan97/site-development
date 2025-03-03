@@ -1,0 +1,19 @@
+/* APP DOCUMENTATION */
+
+- check package.json for further commands.
+- file type is javascript module.
+- commands to start app:
+    1) npm run dev
+    2) npm run build
+
+- all components should go into components folder.
+- index.css is global styling file, you can write your styling into index.css or can create module.ComponentName.css per component.
+- all static images should go into public folder.
+
+=================================================
+
+Date: 03 March, 2025
+
+Pratik's log:
+    - Created react application using vite.
+    - basic styling for browser.
