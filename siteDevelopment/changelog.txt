@@ -10,6 +10,8 @@
 - index.css is global styling file, you can write your styling into index.css or can create module.ComponentName.css per component.
 - all static images should go into public folder.
 
+- to make changes into live app, use update branch
+
 =================================================
 
 Date: 03 March, 2025
@@ -17,3 +19,4 @@ Date: 03 March, 2025
 Pratik's log:
     - Created react application using vite.
     - basic styling for browser.
+    - created update branch.
