@@ -1,5 +1,8 @@
 /* APP DOCUMENTATION */
 
+- to initiate app, do "npm i".
+======================================================
+
 - check package.json for further commands.
 - file type is javascript module.
 - commands to start app:
